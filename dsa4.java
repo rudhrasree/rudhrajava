@@ -6,10 +6,12 @@ class neo22
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int[] b = new int[a];
+        int[] c = new int[a];
         for(int i=0; i<a; i++)
         {
             b[i] = scan.nextInt();
         }
+        int k = scan.nextInt();
         for(int i=0; i< a - 1; i++)
         {
             for(int j=0; j<a-i-1; j++)
@@ -25,6 +27,14 @@ class neo22
         for(int i=0; i<a; i++)
         {
             System.out.print(b[i]+" ");
+        }
+        if (k <= a && k > 0) 
+        {
+            System.out.println("\n" + k + "th largest element is: " + b[a - k]);
+        } 
+        else 
+        {
+            System.out.println("\nInvalid value of K");
         }
     }
 }

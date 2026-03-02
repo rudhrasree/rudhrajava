@@ -6,6 +6,7 @@ class neo22
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int[] b = new int[a];
+        int[] c = new int[a];
         for(int i=0; i<a; i++)
         {
             b[i] = scan.nextInt();
@@ -14,7 +15,7 @@ class neo22
         {
             for(int j=0; j<a-i-1; j++)
             {
-                if(b[j]>b[j+1])
+                if(b[j]<b[j+1])
                 {
                     int temp = b[j];
                     b[j] = b[j + 1];
