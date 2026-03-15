@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class lefttriangle8
+public class lefttriangle35
 {
     public static void main(String[] args) 
     {
