@@ -1,0 +1,55 @@
+[33mbdf77ef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{0}: reset: moving to HEAD~9
+[33md6b01ef[m HEAD@{1}: commit (merge): Merge branch 'main' of https://github.com/rudhrasree/rudhrajava
+[33mbf964a6[m HEAD@{2}: commit: create
+[33m8cc77ce[m HEAD@{3}: commit (merge): Merge branch 'main' of https://github.com/rudhrasree/rudhrajava
+[33m27882aa[m HEAD@{4}: commit: Add program11
+[33m397cd4d[m HEAD@{5}: commit: create
+[33m32c8caf[m HEAD@{6}: commit: Add program23
+[33m21f658f[m HEAD@{7}: commit: Add program23
+[33m6bcf2aa[m HEAD@{8}: commit: Add program22
+[33md4f1686[m HEAD@{9}: commit: Add program21
+[33mbdf77ef[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m HEAD@{10}: commit: Add program20
+[33m4520af9[m HEAD@{11}: commit: Add program19
+[33m46b1a7f[m HEAD@{12}: commit: Add program18
+[33m123b6ee[m HEAD@{13}: commit: Add program17
+[33me8e5042[m HEAD@{14}: commit: Add program16
+[33mfa972c7[m HEAD@{15}: commit: Add program15
+[33m5132892[m HEAD@{16}: commit: Add program14
+[33m5f9049c[m HEAD@{17}: commit: Add program13
+[33mb3cc07f[m HEAD@{18}: commit: Add program12
+[33mcabd6e9[m HEAD@{19}: commit: Add program11
+[33m65a6a17[m HEAD@{20}: commit: Add program10
+[33m4f14165[m HEAD@{21}: commit: Add program9
+[33mb847ae4[m HEAD@{22}: commit: Add program8
+[33md6c634e[m HEAD@{23}: commit: Add program7
+[33mdc4343c[m HEAD@{24}: commit: Add program6
+[33mfbf85f6[m HEAD@{25}: commit: Add program5
+[33m75daa06[m HEAD@{26}: commit: Add program5
+[33m0d2635e[m HEAD@{27}: commit: Add program4
+[33m31130e1[m HEAD@{28}: commit: Add program4
+[33m19bf36d[m HEAD@{29}: commit: Add program3
+[33m0cc4aec[m HEAD@{30}: commit: Delete file1
+[33m039b49d[m HEAD@{31}: commit: Add program1
+[33m16e09d2[m HEAD@{32}: commit: Add program2
+[33m8457a68[m HEAD@{33}: commit: Add program1
+[33m7d2f0ec[m HEAD@{34}: commit: create
+[33mea40c0c[m HEAD@{35}: commit: create
+[33m7197531[m HEAD@{36}: commit: create
+[33m7f5b04a[m HEAD@{37}: commit: create
+[33mc89256b[m HEAD@{38}: commit: create
+[33m5ca6d4c[m HEAD@{39}: commit: create
+[33m23ae998[m HEAD@{40}: commit: create
+[33mfe3ac2f[m HEAD@{41}: commit: create
+[33ma311b1a[m HEAD@{42}: commit: create
+[33mc9f88ae[m HEAD@{43}: commit: create
+[33md8b1837[m HEAD@{44}: commit: create
+[33m7204349[m HEAD@{45}: commit: create
+[33ma7ba001[m HEAD@{46}: commit: create
+[33m665ceb3[m HEAD@{47}: commit: create
+[33m0a29655[m HEAD@{48}: commit: create
+[33me0d8965[m HEAD@{49}: pull origin main --rebase (finish): returning to refs/heads/main
+[33me0d8965[m HEAD@{50}: pull origin main --rebase (pick): create
+[33m4c65cce[m HEAD@{51}: pull origin main --rebase (start): checkout 4c65cce840b14c4567b99aa3b785244df18bd394
+[33m3863f4e[m HEAD@{52}: commit: create
+[33m1851442[m HEAD@{53}: Branch: renamed refs/heads/master to refs/heads/main
+[33m1851442[m HEAD@{55}: commit (initial): created
